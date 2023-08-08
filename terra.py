@@ -118,7 +118,7 @@ def banner():
     pc.print(banner.renderText("Terra"),style="bold red")
     pc.print("                         OSINT TOOL ON SOCIAL MEDIA NETWORKS                                                                                              ", style="cyan1")
     print(" ")
-    pc.print("                         @xadhrit (github.com/xadhrit/)                         " , style='bold red')                                                   
+    pc.print("                         @virtualcyberlabs                         " , style='bold red')                                                   
 
 def _out():
     pc.print("Thank you for using Terra!", style="yellow")
